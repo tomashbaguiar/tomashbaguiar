@@ -26,15 +26,15 @@
     </header>
     <main>
         <section>
-            <a href="https://github.com/tomashbaguiar">
-            <img height="165em" width="48%" src="https://github-readme-stats.vercel.app/api?username=tomashbaguiar&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-            <img height="165em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomashbaguiar&layout=compact&langs_count=7&theme=darcula"/>
-        </section>
-        <section>
             <p>
                 I have created this new profile to publish my learnings and reviews, also to be consistent with that
                 learning.
             </p>
+        </section>
+        <section>
+            <a href="https://github.com/tomashbaguiar">
+            <img height="165em" width="48%" src="https://github-readme-stats.vercel.app/api?username=tomashbaguiar&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+            <img height="165em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomashbaguiar&layout=compact&langs_count=7&theme=darcula"/>
         </section>
     </main>
 </body>
