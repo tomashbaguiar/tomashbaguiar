@@ -1,40 +1,37 @@
 <body>
-    <header>
-        <h1>Hello, I'm Tomás - @tomashbaguiar</h1>
-        <h4 align="center">
-            <a href="https://www.instagram.com/tomas.aguiar/">
-                <img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
-                     alt="Instagram">
-            </a>
-            <a href="https://www.linkedin.com/in/tomashbaguiar/">
-                <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"
-                     alt="LinkedIn">
-            </a>
-            <a href="https://open.spotify.com/user/tomas.aguiar">
-                <img src="https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16"
-                     alt="Spotify">
-            </a>
-            <a href="https://discord.gg/insaneThOughTS">
-                <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-                     alt="Discord">
-            </a>
-            <a href="https://t.me/aguiartomas">
-                <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-                     alt="Discord">
-            </a>
-        </h4>
-    </header>
-    <main>
-        <section>
-            <p>
-                I have created this new profile to publish my learnings and reviews, also to be consistent with that
-                learning.
-            </p>
-        </section>
-        <section>
-            <a href="https://github.com/tomashbaguiar">
-            <img height="165em" width="48%" src="https://github-readme-stats.vercel.app/api?username=tomashbaguiar&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-            <img height="165em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomashbaguiar&layout=compact&langs_count=8&theme=darcula"/>
-        </section>
-    </main>
+	<header>
+		<h1 align="center">Hi 👋, I'm Tomás</h1>
+		<h3 align="center">A passionate fullstack developer from Brazil</h3>
+	</header>
+	<main>
+		<section>
+			<h3 align="center">Connect with me:</h3>
+			<p align="center">
+				<a href="https://linkedin.com/in/tomashbaguiar" target="blank">
+					<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomashbaguiar" height="30" width="40" />
+				</a>
+				<a href="https://stackoverflow.com/users/20511280/insanetts" target="blank">
+					<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="todo" height="30" width="40" />
+				</a>
+				<a href="https://www.hackerrank.com/tomashbaguiar" target="blank">
+					<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="todo" height="30" width="40" />
+				</a>
+				<a href="https://www.leetcode.com/tomashbaguiar" target="blank">
+					<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="todo" height="30" width="40" />
+				</a>
+			</p>
+			<p align="center">
+				<img heigth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomashbaguiar&layout=compact&langs_count=8&theme=darcula"/>
+				<img src="https://github-readme-streak-stats.herokuapp.com/?user=tomashbaguiar&theme=darcula" alt="tomashbaguiar" />
+			</p>
+			<h4 align="center">
+				<p align="center">
+					<a href="https://github.com/ryo-ma/github-profile-trophy">
+						<img src="https://github-profile-trophy.vercel.app/?username=tomashbaguiar" alt="tomashbaguiar" />
+					</a>
+				</p>
+			</h4>
+		</section>
+	</main>
 </body>
+
